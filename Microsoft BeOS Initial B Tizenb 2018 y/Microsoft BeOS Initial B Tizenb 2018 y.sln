@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27705.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Microsoft BeOS Initial B Tizenb 2018 y", "Microsoft BeOS Initial B Tizenb 2018 y\Microsoft BeOS Initial B Tizenb 2018 y.vbproj", "{61E05D7C-8F1A-4608-9EC6-50AB81E758AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61E05D7C-8F1A-4608-9EC6-50AB81E758AE}.Debug|ARM.ActiveCfg = Debug|ARM
+		{61E05D7C-8F1A-4608-9EC6-50AB81E758AE}.Debug|ARM.Build.0 = Debug|ARM
+		{61E05D7C-8F1A-4608-9EC6-50AB81E758AE}.Debug|ARM.Deploy.0 = Debug|ARM
+		{61E05D7C-8F1A-4608-9EC6-50AB81E758AE}.Debug|x64.ActiveCfg = Debug|x64
+		{61E05D7C-8F1A-4608-9EC6-50AB81E758AE}.Debug|x64.Build.0 = Debug|x64
+		{61E05D7C-8F1A-4608-9EC6-50AB81E758AE}.Debug|x64.Deploy.0 = Debug|x64
+		{61E05D7C-8F1A-4608-9EC6-50AB81E758AE}.Debug|x86.ActiveCfg = Debug|x86
+		{61E05D7C-8F1A-4608-9EC6-50AB81E758AE}.Debug|x86.Build.0 = Debug|x86
+		{61E05D7C-8F1A-4608-9EC6-50AB81E758AE}.Debug|x86.Deploy.0 = Debug|x86
+		{61E05D7C-8F1A-4608-9EC6-50AB81E758AE}.Release|ARM.ActiveCfg = Release|ARM
+		{61E05D7C-8F1A-4608-9EC6-50AB81E758AE}.Release|ARM.Build.0 = Release|ARM
+		{61E05D7C-8F1A-4608-9EC6-50AB81E758AE}.Release|ARM.Deploy.0 = Release|ARM
+		{61E05D7C-8F1A-4608-9EC6-50AB81E758AE}.Release|x64.ActiveCfg = Release|x64
+		{61E05D7C-8F1A-4608-9EC6-50AB81E758AE}.Release|x64.Build.0 = Release|x64
+		{61E05D7C-8F1A-4608-9EC6-50AB81E758AE}.Release|x64.Deploy.0 = Release|x64
+		{61E05D7C-8F1A-4608-9EC6-50AB81E758AE}.Release|x86.ActiveCfg = Release|x86
+		{61E05D7C-8F1A-4608-9EC6-50AB81E758AE}.Release|x86.Build.0 = Release|x86
+		{61E05D7C-8F1A-4608-9EC6-50AB81E758AE}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B964B79B-FAC0-475D-B842-DE3484B74B6F}
+	EndGlobalSection
+EndGlobal
